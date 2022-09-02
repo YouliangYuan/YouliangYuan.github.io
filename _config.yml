@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pinjia He"
+title                    : "Youliang Yuan"
 title_separator          : "-"
-name                     : &name "Pinjia He"
-description              : &description "Assistant professor at CUHK (Shenzhen)"
-url                      : https://pinjiahe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Youliang Yuan"
+description              : &description "PhD student at CUHK (Shenzhen)"
+url                      : https://youliangyuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "PinjiaHe.github.io"
+repository               : "YouliangYuan.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,15 +82,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pinjia He"
+  name             : "YouliangYuan"
   avatar           : "profile.jpg"
-  bio              : "Assistant professor and Presidential Young Fellow at CUHKSZ."
+  bio              : "PhD student at CUHKSZ."
   location         : "Shenzhen, China"
   employer         :
   pubmed           :
   orcid            : 
-  googlescholar    : "https://scholar.google.com/citations?user=vg0moI0AAAAJ&hl=en"
-  email            : "hepinjia@cuhk.edu.cn"
+  googlescholar    : #"https://scholar.google.com/citations?user=vg0moI0AAAAJ&hl=en"
+  email            : "youliangyuan@link.cuhk.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "PinjiaHe"
+  github           : "YouliangYuan"
   gitlab           : 
   google_plus      :
   keybase          :
@@ -112,7 +112,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "PinjiaHE"
+  twitter          : #"PinjiaHE"
   vine             :
   weibo            :
   xing             :
