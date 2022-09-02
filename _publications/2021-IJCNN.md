@@ -1,11 +1,11 @@
 ---
-title: "Learning to Log: Helping Developers Make Informed Logging Decisions"
+title: "DCEN: A Decoupled Context Enhanced Network For Few-shot Slot Tagging"
 collection: publications
-permalink: /publication/2015-ICSE
-date: 2015-05-15
-venue: 'International Conference on Software Engineering'
-paperurl: '/files/pdf/research/ICSE15.pdf'
-link: 'https://ieeexplore.ieee.org/document/7194593'
-github: 'https://github.com/logpai/LogAdvisor'
-citation: "Jieming Zhu, Pinjia He, Qiang Fu, Hongyu Zhang, Michael R. Lyu, Dongmei Zhang. <br><i>ICSE'15: International Conference on Software Engineering</i>"
+permalink: /publication/2021-IJCNN
+date: 2021-07-18
+venue: 'International Joint Conference on Neural Networks (IJCNN)'
+paperurl: '/files/pdf/research/IJCNN2021.pdf'
+link: 'https://ieeexplore.ieee.org/abstract/document/9533361'
+github: 
+citation: "Youliang Yuan; Jiaxin Pan; Xu Jia; Luchen Liu; Min Peng. <br><i>IJCNN'21: International Joint Conference on Neural Networks</i>"
 ---
