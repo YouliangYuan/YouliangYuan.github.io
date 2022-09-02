@@ -17,4 +17,4 @@ author_profile: true
 
 \* Corresponding Author
 
-Complete list: \[[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=cd-wSAsAAAAJ&hl=en)\]\[[DBLP](https://dblp.org/pers/hd/h/He:Pinjia)\]
+Complete list: \[[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=cd-wSAsAAAAJ&hl=en)\]
