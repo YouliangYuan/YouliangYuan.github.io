@@ -1,4 +1,3 @@
-
 ---
 title: "Learning to Log: Helping Developers Make Informed Logging Decisions"
 collection: publications
