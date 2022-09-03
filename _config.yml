@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Youliang Yuan"
 title_separator          : "-"
-name                     : &name "Youliang Yuan"
+name                     : &name "Youliang Yuan 袁尤良"
 description              : &description "PhD student at CUHK (Shenzhen)"
 url                      : https://youliangyuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
