@@ -5,7 +5,7 @@ permalink:
 date: 2023-08-06
 venue: 
 paperurl: 
-link: 
+link: cipherchat.github.io
 github: 
-citation: "Youliang Yuan; Wenxiang Jiao; Wenxuan Wang; Jen-tse Huang; Pinjia He*; Shuming Shi; Zhaopeng Tu. <br><i>arxiv/i>"
+citation: "Youliang Yuan; Wenxiang Jiao; Wenxuan Wang; Jen-tse Huang; Pinjia He*; Shuming Shi; Zhaopeng Tu. <br><i>arxiv</i>"
 ---
