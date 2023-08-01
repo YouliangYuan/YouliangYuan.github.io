@@ -7,5 +7,5 @@ venue:
 paperurl: 
 link: 
 github: 
-citation: "Youliang Yuan;  Wenxiang Jiao; Wenxuan Wang; Jen-tse Huang; Pinjia He*; Shuming Shi; Zhaopeng Tu. <br><i>arxiv/i>"
+citation: "Youliang Yuan; Wenxiang Jiao; Wenxuan Wang; Jen-tse Huang; Pinjia He*; Shuming Shi; Zhaopeng Tu. <br><i>arxiv/i>"
 ---
