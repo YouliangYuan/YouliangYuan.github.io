@@ -1,5 +1,5 @@
 ---
-title: "DllCEN: A Decoupled Context Enhanced Network For Few-shot Slot Tagging"
+title: "DCEN: A Decoupled Context Enhanced Network For Few-shot Slot Tagging"
 collection: publications
 permalink: /publication/2021-IJCNN
 date: 2021-07-18
