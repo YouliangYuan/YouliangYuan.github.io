@@ -6,6 +6,6 @@ date: 2023-08-14
 venue: 
 paperurl: 
 link: cipherchat.github.io
-github: 
+github: https://github.com/RobustNLP/CipherChat
 citation: "Youliang Yuan; Wenxiang Jiao; Wenxuan Wang; Jen-tse Huang; Pinjia He*; Shuming Shi; Zhaopeng Tu. <br><i>arxiv</i>"
 ---
