@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:  "https://twitter.com/youliang_yuan"
-  username               : "Youliang Yuan"
+twitter:  
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -112,7 +112,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "youliang_yuan"
+  twitter          : "youliang_yuan"
   vine             :
   weibo            :
   xing             :
