@@ -14,6 +14,6 @@ Youliang Yuan is currently a PhD student at the [School of Data Science](https:/
 
 Youliang is under the guidance of Professor [Pinjia He](https://pinjiahe.github.io/), with a focus on using systematic methodologies in software engineering, particularly testing technologies, to improve the reliability of AI systems, especially large language models. Currently, he is interning at Tencent AI Lab under Dr. [Zhaopeng Tu](http://www.zptu.net/)'s supervision.
 
-His research interest lies principally in the security and alignment of large language models, hallucination, instruction-following, and out-of-distribution generalization abilities.
+His research interest lies principally in the security and alignment of large language models, hallucination, instruction-following, and out-of-distribution generalization abilities. My current goal is to conduct interesting and impactful research, and I'm working hard toward this.
 
 
