@@ -5,7 +5,7 @@ permalink:
 date: 2023-08-15
 venue: arxiv
 paperurl: https://arxiv.org/abs/2308.06463
-link:https://llmcipherchat.github.io
+link: https://llmcipherchat.github.io
 github: https://github.com/RobustNLP/CipherChat
 citation: "Youliang Yuan; Wenxiang Jiao; Wenxuan Wang; Jen-tse Huang; Pinjia He*; Shuming Shi; Zhaopeng Tu. <br><i>arxiv</i>"
 ---
