@@ -1,5 +1,5 @@
 ---
-title: "GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher" <a href="https://github.com/RobustNLP/CipherChat"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RobustNLP/CipherChat?label=Github%20Stars&style=social"> </a>: [CipherChat](https://github.com/RobustNLP/CipherChat)
+title: <a href="https://github.com/RobustNLP/CipherChat"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RobustNLP/CipherChat?label=Github%20Stars&style=social"> </a>: [GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher](https://github.com/RobustNLP/CipherChat)
 collection: publications
 permalink:  https://arxiv.org/abs/2308.06463
 date: 2023-08-15
