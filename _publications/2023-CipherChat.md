@@ -1,5 +1,5 @@
 ---
-title:</a>: [GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher](https://github.com/RobustNLP/CipherChat)
+title:[GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher](https://github.com/RobustNLP/CipherChat)
 collection: publications
 permalink:  https://arxiv.org/abs/2308.06463
 date: 2023-08-15
