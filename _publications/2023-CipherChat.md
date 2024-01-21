@@ -1,5 +1,5 @@
 ---
-title: GPT-4 Is Too Smart To Be Safe Stealthy Chat with LLMs via Cipher
+title: GPT-4 Is Too Smart To Be Safe Stealthy Chat with LLMs via Cipher (ICLR 2024)
 collection: publications
 permalink:  https://arxiv.org/abs/2308.06463
 date: 2023-08-15
