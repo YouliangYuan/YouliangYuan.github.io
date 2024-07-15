@@ -1,8 +1,8 @@
 ---
-title: Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training
+title: Refuse Whenever You Feel Unsafe Improving Safety in LLMs via Decoupled Refusal Training
 collection: publications
 permalink:  https://arxiv.org/abs/2407.09121
-date: 2024-7-12
+date: 2024-07-12
 venue: arxiv 2024
 paperurl: https://arxiv.org/abs/2407.09121
 link: https://arxiv.org/abs/2407.09121
