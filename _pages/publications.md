@@ -17,7 +17,7 @@ author_profile: true
 
 
 
-**My Projects**
+## Projects
 - <a href="https://github.com/RobustNLP/CipherChat"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RobustNLP/CipherChat?label=Github%20Stars&style=social"> </a>: [CipherChat](https://github.com/RobustNLP/CipherChat)    
 
 - <a href="https://github.com/RobustNLP/DeRTa"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/RobustNLP/DeRTa?label=Github%20Stars&style=social"> </a>: [DeRTa](https://github.com/RobustNLP/DeRTa)    
