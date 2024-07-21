@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Spotlight"
-permalink: /publications/
+permalink: /spotlight/
 author_profile: true
 ---
 
