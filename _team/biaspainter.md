@@ -2,7 +2,7 @@
 title: New Job, New Gender? Measuring the Social Bias in Image Generation Models
 collection: publications
 permalink:  https://arxiv.org/abs/2401.00763
-date: 2023-08-15
+date: 2024-07-15
 venue: ACM MM 2024
 paperurl: https://arxiv.org/abs/2401.00763
 link:  https://arxiv.org/abs/2401.00763
