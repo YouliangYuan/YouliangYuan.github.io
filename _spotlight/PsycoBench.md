@@ -1,6 +1,6 @@
 ---
 title: On the Humanity of Conversational AI Evaluating the Psychological Portrayal of LLMs
-collection: spotlight
+collection: publications
 permalink:  
 date: 2023-08-15
 venue: ICLR 2024
