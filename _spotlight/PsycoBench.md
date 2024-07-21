@@ -1,7 +1,7 @@
 ---
 title: On the Humanity of Conversational AI Evaluating the Psychological Portrayal of LLMs
 collection: spotlight
-permalink:  https://openreview.net/forum?id=H3UayAQWoE
+permalink:  
 date: 2023-08-15
 venue: ICLR 2024
 paperurl: https://openreview.net/forum?id=H3UayAQWoE
