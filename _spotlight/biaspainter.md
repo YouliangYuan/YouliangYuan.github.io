@@ -1,8 +1,8 @@
 ---
-title:  ACM MM 2024 Oral| New Job, New Gender? Measuring the Social Bias in Image Generation Models
+title:  ACM MM 2024 Oral| New Job New Gender? Measuring the Social Bias in Image Generation Models
 collection: publications
 permalink:  
-date: 2024-08-15
+date: 2024-07-15
 venue: ACM MM 2024
 paperurl:  
 link:  https://arxiv.org/abs/2401.00763
