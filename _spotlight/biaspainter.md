@@ -1,5 +1,5 @@
 ---
-title: New Job, New Gender? Measuring the Social Bias in Image Generation Models
+title: New Job, New Gender? Measuring the Social Bias in Image Generation Models (MM 2024 Oral)
 collection: publications
 permalink:  
 date: 2024-08-15
