@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Spotlight"
-permalink: /team/
+permalink: /spotlight/
 author_profile: true
 ---
 
@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.team reversed %}
+{% for post in site.spotlight reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
