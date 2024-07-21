@@ -1,5 +1,5 @@
 ---
-title: On the Humanity of Conversational AI: Evaluating the Psychological Portrayal of LLMs
+title: On the Humanity of Conversational AI Evaluating the Psychological Portrayal of LLMs
 collection: publications
 permalink:  https://openreview.net/forum?id=H3UayAQWoE
 date: 2023-08-15
