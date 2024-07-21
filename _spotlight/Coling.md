@@ -1,5 +1,5 @@
 ---
-title: Does ChatGPT Know that It Does Not Know? Evaluating the Black-Box Calibration of ChatGPT 
+title: Does ChatGPT Know that It Does Not Know? Evaluating the Black-Box Calibration of ChatGPT (COLING 2024 Oral)
 collection: publications
 permalink:  
 date: 2023-08-15
