@@ -1,5 +1,5 @@
 ---
-title: On the Humanity of Conversational AI Evaluating the Psychological Portrayal of LLMs (ICLR 2024 Oral)
+title: ICLR 2024 Oral| On the Humanity of Conversational AI Evaluating the Psychological Portrayal of LLMs 
 collection: publications
 permalink:  
 date: 2023-08-15
