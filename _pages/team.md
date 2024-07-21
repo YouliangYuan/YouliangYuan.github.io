@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Spotlight"
-permalink: /team/
+permalink: /spotlight/
 author_profile: true
 ---
 
