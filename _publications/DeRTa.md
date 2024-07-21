@@ -7,5 +7,5 @@ venue: Preprint
 paperurl: https://arxiv.org/abs/2407.09121
 link: https://arxiv.org/abs/2407.09121
 github: https://github.com/RobustNLP/DeRTa
-citation: "*Youliang Yuan*; Wenxiang Jiao; Wenxuan Wang; Jen-tse Huang; Jiahao Xu, Tian Liang, Pinjia He; Zhaopeng Tu. <br><i>arxiv 2024</i>"
+citation: "Youliang Yuan; Wenxiang Jiao; Wenxuan Wang; Jen-tse Huang; Jiahao Xu, Tian Liang, Pinjia He; Zhaopeng Tu. <br><i>arxiv 2024</i>"
 ---
