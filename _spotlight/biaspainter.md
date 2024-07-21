@@ -6,6 +6,6 @@ date: 2023-08-15
 venue: ACM MM 2024
 paperurl: 
 link:  
-github:  https://arxiv.org/abs/2401.00763
+github: 
 citation: "Wenxuan Wang, Haonan Bai, Jen-tse Huang, Yuxuan Wan, Youliang Yuan, Haoyi Qiu, Nanyun Peng, Michael R. Lyu <br><i>MM 2024 (Oral)</i>"
 ---
