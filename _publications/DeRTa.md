@@ -3,7 +3,7 @@ title: Refuse Whenever You Feel Unsafe Improving Safety in LLMs via Decoupled Re
 collection: publications
 permalink:  https://arxiv.org/abs/2407.09121
 date: 2024-07-12
-venue: Preprint
+venue: ACL 2025
 paperurl: https://arxiv.org/abs/2407.09121
 link: https://arxiv.org/abs/2407.09121
 github: https://github.com/RobustNLP/DeRTa
